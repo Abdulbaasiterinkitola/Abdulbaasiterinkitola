@@ -1,4 +1,4 @@
-## Hi there 👋 I am Abdulbaasit Erinkitola, a Computer Engineering Student and a Web Developer.
+## Hi there 👋 I am Abdulbaasit Erinkitola, a Computer Engineering Undergraduate and a Web Developer.
 
 <!--
 **Abdulbaasiterinkitola/Abdulbaasiterinkitola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
